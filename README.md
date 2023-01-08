@@ -5,5 +5,5 @@ This is an open source pre-hospital emergency care text. Each chapter coveres to
 
 ## Authors / Developers
 
-- Max Dodge
-- Drew Toma
+- [Max Dodge, BS, NRP, I/C](https://www.linkedin.com/in/maxdodge1/)
+- [Drew Toma, AS, NRP, I/C](https://drewtoma.com)
